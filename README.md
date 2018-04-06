@@ -1,2 +1,2 @@
 # hello-world
-Testing 123
+Hey, my name is Erica and i'mg github-ing!
